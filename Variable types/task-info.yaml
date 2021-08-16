@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: variable_type.py
+  visible: true
+  placeholders:
+  - offset: 93
+    length: 18
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 93
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: xYvjV1k29PH2zLAhypBtth6JB800f+kgf+CyS8mbI3A=
+  encrypted_text: YoOJiSbqbvZVuvvxZHm4glvjYH8+2/85XfTT2CADIbSHMcaowC5ZRNG3iwVBZ04WKVTy2PlfOSKVDlYN4H54SGnSpseCW9jvWnR9DREuoHJT+G9bTMeP+jAYQmW2OYXT6uRSGZ877NoKT4n1vXGfsw==
+  learner_created: false
+- name: tests.py
+  visible: false
+  encrypted_text: 6ka25xOk5wV2Eja/yJk8E5k7jJfUYkVGj8FqzASysVLMn4i4qQhFhF1UZgfdvJuK7qaKjbYTUHoAdPF09ohj7+xITWBEhI1gbkhOsQ1sUjlWhX4GEw2iOQZcwt/74ozTJQgiahYH3FjVue/FlcSV2EuScL67h0Q/x4mk0V4L3UBw54JGjG9Uiu17PCSB6z1gS/p/6odAl4OOUDpfj32RODiygnD06OQGLalGZ42+0dOG5gd+ihWGr9qJZT+2AJzRSt3jv2/KiQz1AtY8Kb6OLddMREEshzRqlkMoaj8yj4ejJ7SdTjifQDNfCYydIYZmCfykpBQno2loZODavNga37Cc8nmCfR0dx4ELwumkJ6ybv2m33/89AS0o3cNo2zWKMZm1f+lbx9yEZrYvEO2gMbZwFCMGBI+RSLX2OivTyJEOJGDNPY4jS4UAHLT6Pk0YvxRqLi645XaRRJIKst9Nsg==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 12 Aug 2021 11:05:15 UTC
+record: -1

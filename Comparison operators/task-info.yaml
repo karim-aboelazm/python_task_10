@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: comparison_operators.py
+  visible: true
+  placeholders:
+  - offset: 189
+    length: 1
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 189
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: WDXBZttNfAVbbyebeCpJoA==
+  encrypted_text: 5ND7RewyazfDEHM4lyuzJzIfoECsX8fCLBs1jK8P+fwNkgEPj4Bzx2xhcPReSQjnWMKzWYnK9Ed7jHUBpj9WMb53PpQbGWdrQYEsNkS2KxKeiEifsZxgnhgACMv1+6RlkE4J70lckP3FwoI8TGVWI6MhhAWUIhz/ugtamTovWcbMuCzplNtl37RT36ERXM79dtxYdPfswG0bCSgIVXTw7pz/zN9hRgv7ocoEV9L4cUswZdH7Y+NcaZmZequAvZJ3Esj/45rmUGpfIYvka811WH38oyN68Qo9lIyZOBhT8+Q=
+  learner_created: false
+- name: tests.py
+  visible: false
+  encrypted_text: 6ka25xOk5wV2Eja/yJk8E5k7jJfUYkVGj8FqzASysVK++EwV2kMyIh6JnovzV0VYkp9ECsavHzY4UjtZSGTIdtndxnQJTEjsr5Abh5rLFqcDfx/HOhaAKORI5BA1/mP62ywOuukSa+KcQFEpheEuF+rRQ4ldJL/qwi18eFcMWjgor2BYGCKte+u/eZZjLlEM3soKERpLTaiSV0iFHfaIFL7yiDUI4ES8T+k4mCRkTLHYb0e19EnSvFRaec6alX97NRSVeQLK53d5Y8yMrpPJc/hXz0/0VtoNtld6TNm0eDhfgDsBtkXL2yJtr38IWtGSFxtdXZ/GGizzPnG5e+f/57qt8/zNTyJTvT5ljrmnrj4qS/hKNSl9XJwapnQiklmeJz2eHIfl3DnQgZCuRAigzhzldRnY+5qWQP4H1kkevTB5/PQj58cS+s5R3+HI8cti56xSHzmfw5CfXY70p7BABvU/Lsblw9AhthJZhX+lBZO6rciPkC5AiWEJQbf6tbuRcCiQlVqPAmhJj86TZoX8FyqefkkteRJfk74j5NeZXnRHtB4fOAtj3H1Uh/utobrGXWHzQm4U1HlaaRZcIQAdtp6+UPIeHePvVY9TTKFSUtwDzd4uLfTecdxVnH3ePibveKtnXBjTqvK4nrLh7m9Hf8udZQDlqLmxOEWanjnS7do1sxA8qH0seFgkyONzOAeQ
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 12 Aug 2021 11:08:07 UTC
+record: -1

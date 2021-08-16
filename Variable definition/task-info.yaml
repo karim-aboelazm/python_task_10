@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: variable_definition.py
+  visible: true
+  placeholders:
+  - offset: 346
+    length: 5
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 346
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+  encrypted_text: 9/hXHfLlFeHOafDIkoKFcySgOlUnYCDEVu1/EUbmEmrEIRDxaITjENpM9dB9BbhDhfBicGRy6jwmHVrXDb2leJVJBU0/iqX2fi8KWeJASRfkUHiRMmuM9eUyx7C2PF/u4Gl7CdA33GSGVKZqwlLoxeeZx8BHYh6ND5QmE9sfRE26srj682l9io33QEXxtIpRszOZk/NhXJgIVcl2RwwFG7geNVCojWCwdN6dPRIgO10XazKWm+tDPxyYIvPHu8Y2yO/KLVt0VLsrMStsasXK3BHBg3duPCsv0+WWpLvfrekmhOEoL9CqtKJq3EUQYeolZe3Ub/XA+MbrkK2i9ZxRJB7Bbdkz16pHAq5PSrHJPoMXdYB7NS7aNVBd+IQeZnRiP8obewJfLT4Ec74t1Jns7HsdPvPKWuwxcUToBdC12kHdDQhvbhfFVwJDYAYZQ7LUHUc4/8Cs3giqGY90PZkBE+j8UB4iPgGnayOb990iWiz5Gc9mwxEUknkVvYEN/1v05f0voMmHFVXgaQy2lkdLMA==
+  learner_created: false
+- name: tests.py
+  visible: false
+  encrypted_text: 6ka25xOk5wV2Eja/yJk8E5k7jJfUYkVGj8FqzASysVInE5EUiuOtTnEjbT46VtwAKKoKRgxct2gt6fg6Zl5iOciEEXIIX14MDE4s9tJrLb1t1xIVMuGJ8Yc2HoMgbWZhHWTThm1ixOnIyPB4udkK8MNmhtQALA4PoszV7e1HeZG5bCuc5WlHSYxImou6cvQqw+nhqQXqc4ZFFfgwc9Qpt9nUmfR1eVHX5bTtkUcnts5AR96m0RgAXwKpxZ4MPO40pPlZnVjIZFE5RUBMAuietvtq6NKgvFc9PK0vUUqG1/T/KUWWheP7gMDWQy+HnWXxtINzIRQCe0O2kVLCpdBBsALOvT2zOWScK0ERR3EctGjzwaryisbXHijQoznc8qLyTZamCTU9OGvVaUZZt9xiZseeQ86McEhz3O4nyZxFZXIaNEdyUd7dND5LV01pfhawzVcF1LzATcF/i4cU35ig4Gpo0c/zKBJEo/i+AeOes8CtbVtqClThzHt2dQg6LlQQgkOjIu82H28jdLoHyw3NuNWjKLAueR6qaTpA1j21ypXECem55MhFXCE5Fn65ylCJRQvbi50EXqYTATeivImDKDye/brMgruclShzdPjlB0eSmFY5BmAYiZGhK4z2NZdxQPvTgdMz42b5cB7Icr4s6OWUhdMitAh7pv9t3rzDbNyAwXatZAUFYi1IwnBxxgqS1OwdN2OLqEsgoGg6oBaVKLNtr4xxfkybSuPFc0yMwy/4u0BopCqivSvr2fawe22xdY8lvZNX7Nr98AxeU+0EwpBzNQGQELttZifsOm8zwD97nxE2VaxhjGkWZTVQt+SF
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 12 Aug 2021 11:03:00 UTC
+record: -1
